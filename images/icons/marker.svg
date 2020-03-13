@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="52" viewBox="0 0 25 32">
+    <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+        <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+            <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <rdf:Description rdf:about=""/>
+            </rdf:RDF>
+        </x:xmpmeta>
+
+
+        <?xpacket end="w"?>
+    </metadata>
+    <defs>
+        <style>
+            .cls-1 {
+            fill: #00a1eb;
+            fill-rule: evenodd;
+            }
+        </style>
+    </defs>
+    <path id="point_icon" data-name="point icon" class="cls-1"
+          d="M1085.05,906.989a12.658,12.658,0,0,0-12,11.517,13.132,13.132,0,0,0,.17,3.668h0s0.02,0.138.08,0.4a12.8,12.8,0,0,0,.84,2.533c1.26,3.032,4.16,8.1,10.66,13.623a1.072,1.072,0,0,0,1.39,0c6.51-5.512,9.41-10.585,10.67-13.63a12.633,12.633,0,0,0,.84-2.533c0.06-.255.08-0.4,0.08-0.4h0a12.9,12.9,0,0,0,.23-2.421A12.629,12.629,0,0,0,1085.05,906.989Zm0.45,19.109a6.2,6.2,0,1,1,6.07-6.2A6.14,6.14,0,0,1,1085.5,926.1Z"
+          transform="translate(-1073 -907)"/>
+</svg>

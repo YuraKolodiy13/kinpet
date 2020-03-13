@@ -1,0 +1,22 @@
+@import 'components/mixins';
+
+$w: 1030px;
+$c: #4a4a4a;
+$c2: #00a1eb;
+$c3: #21ac50;
+$c4: #feda02;
+$c5: #0086c3;
+$c6: #e20101;
+$bg: #f3f3f3;
+$inputH: 30px;
+$font-base: 18px;
+$f: 'Proxima Nova';
+$f2: 'Museo Sans Cyrl';
+$button-color: $c3;
+$line: 3px;
+$line-position: 19px;
+
+@import 'components/reset';
+@import 'components/flexbox';
+@import 'components/code';
+@import 'components/rwd';
